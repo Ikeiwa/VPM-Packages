@@ -1,7 +1,7 @@
 {
     "name":"Ikeiwa Listing",
     "id":"com.ikeiwa.package-listing",
-    "url":"https://ikeiwa.github.io/vpm-packages/index.json",
+    "url":"https://ikeiwa.github.io/VPM-Packages/index.json",
     "author":{
         "email":"evann.delaunay@gmail.com",
         "name":"Ikeiwa",
